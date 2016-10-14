@@ -1,0 +1,14 @@
+/*vertical-middle Start*/
+.vim-center > *, .vim-center_ > * > *, .vim-center:after, .vim-center_ > :after {
+  vertical-align: middle;
+  display: inline-block;
+}
+
+.vim-center:after, .vim-center_ > :after {
+  overflow: hidden;
+  width: 0;
+  height: 100%;
+  content: '\200b';
+}
+
+/*vertical-middle End*/

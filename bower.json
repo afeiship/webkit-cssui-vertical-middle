@@ -1,0 +1,29 @@
+{
+  "name": "webkit-cssui-vertical-middle",
+  "description": "Webkit css ui module for vertical middle.",
+  "main": [
+    "dist/vertical-middle.css",
+    "dist/vertical-middle.scss"
+  ],
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "webkit",
+    "cssui",
+    "vertical-middle"
+  ],
+  "homepage": "https://github.com/afeiship/webkit-cssui-absolute-center",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ]
+}
